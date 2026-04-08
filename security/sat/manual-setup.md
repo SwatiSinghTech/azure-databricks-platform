@@ -20,3 +20,31 @@ and gives security posture score + recommendations.
 ## Manual Setup Steps
 
 ### Step 1 — Clone SAT Repository
+git clone https://github.com/databrickslabs/sat.git
+### Step 2 — Configure Connection
+- Added workspace URL
+- Configured PAT token
+- Set target workspace
+
+### Step 3 — Run SAT Scan
+- How I ran it
+- Output location
+
+### Step 4 — Review Findings
+- Critical findings found:
+- High findings found:
+- Medium findings found:
+
+### Step 5 — Remediation Applied
+| Finding | Action Taken |
+|---------|-------------|
+|         |             |
+
+## Security Score
+- Before remediation:
+- After remediation:
+
+## Gotchas
+| Issue | Fix |
+|-------|-----|
+|       |     |
